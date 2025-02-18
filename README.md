@@ -2,9 +2,7 @@
 my github website
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>My Github Web Page</title>
-    </head>
+
 <body>
     <h1>Hello!</h1>
     <p>Welcome to my website.</p>
